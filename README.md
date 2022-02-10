@@ -4,4 +4,6 @@ All feature requests are tracked in the GitHub issue tracker of this repository.
 
 Creating a feature request here is the best way to coordinate who wants to implement a new integration/feature and tracking progress. Please note there's no guarantee your feature request will be implemented - it all depends on if enough developers are interested in the feature to implement it and if it fits into SmartRVs architecture.
 
+When posting a feautre request please make it clear what module the request is for.
+
 Note: Please use the GitHub upvote feature for showing support for a feature request. Do not post "+1" comments or similar, those will be hidden/removed. 
